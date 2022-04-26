@@ -1,16 +1,29 @@
-### Hi there 👋
+ 
+ <h1> Fancy meeting you here-! </h1>
+ <p>Hi, This is my Playground 😎🔥<p>
+ 
+<div>
+  <img align="right" src="https://postfiles.pstatic.net/MjAyMjA0MjZfMTQ3/MDAxNjUwOTA1NDA0OTU5.0c_XX2avVIA4HiZlHQtxxbC2H3DA8hpahKBaiWeUDg4g.kYabfUNmP9u7PKgkbwZ_xr9XQY9QUW4LuqFZbVwT934g.GIF.barabaravom/mario-pixel-art.gif?type=w966"/>
+</div>
 
-<!--
-**zzanyoung/zzanyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <h4>👾 My Favorite Toy</h4>
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <br>
+  <h4>🤖 Getting Closer</h4>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+  <h4>👀 Just Staring</h4>
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>  and 🍎 Metal
+  <br><br>
+</div>
 
-Here are some ideas to get you started:
+* * *
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ 
+</div>
+   
