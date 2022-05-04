@@ -28,11 +28,11 @@
 <div><br>
  <h2> 심심하면 기획도 하고🔥</h2>
  <p>(기획서 링크, 구글드라이브로 연결됩니다)</p>
- <p>[UnityXR] 두더지왕국을 구하기 위한 신성한 두더쥐, 리의 여정</p><a href="https://drive.google.com/file/d/1Ow9Wnt4PnXU3VZlZ8ZSNkdf6CpmZxOOf/view?usp=sharing"> 홀리몰리(HolyMole, Lee)-!</a><br>
- <a href="https://www.youtube.com/watch?v=hTxshYV7nto">플레이 영상 유튜브 링크</a><br><br><br>
- <p>[UnityXR] 나쵸의 우주선을 계승하기 위한 우주인들의 고군분투, </p>
- <a href="https://drive.google.com/file/d/1Ea3qXKOGa5wykafSk8KRcOCbWMCd4TEW/view?usp=sharing">스페이스 나쵸(Space Nat'Cho)-!</a><br>
- <a href="https://www.youtube.com/watch?v=AgH2VQ8U528">플레이 영상 유튜브 링크</a><br><br>
+ <p>[UnityXR] 두더지왕국을 구하기 위한 신성한 두더쥐 리의 여정, 홀리몰리(HolyMole, Lee)-!</p><a href="https://drive.google.com/file/d/1Ow9Wnt4PnXU3VZlZ8ZSNkdf6CpmZxOOf/view?usp=sharing">기획서</a><br>
+ <a href="https://www.youtube.com/watch?v=hTxshYV7nto">플레이 영상</a><br><br><br>
+ <p>[UnityXR] 나쵸의 우주선을 계승하기 위한 우주인들의 고군분투, 스페이스 나쵸(Space Nat'Cho)-!</p>
+ <a href="https://drive.google.com/file/d/1Ea3qXKOGa5wykafSk8KRcOCbWMCd4TEW/view?usp=sharing">기획서</a><br>
+ <a href="https://www.youtube.com/watch?v=AgH2VQ8U528">플레이 영상</a><br><br>
  
  <h2> 디자인도 합니다🔥</h2>
  <p>사용하는 툴은 아래와 같습니다</p><img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white"/>
