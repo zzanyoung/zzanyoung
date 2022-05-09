@@ -38,6 +38,6 @@
  <p>사용하는 툴은 아래와 같습니다</p><img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white"/>
    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/><br>
-  <img src="https://postfiles.pstatic.net/MjAyMjA1MDFfMjM4/MDAxNjUxMzM3MDM3NjYx.K20FUlwg5kwC8vxN0lMNk2jIhgMk3e19GPEg8JToWisg.ySsrmSyLyT4EDGWPN7NuV8-KzdjnMh3vM-XBDcEJmasg.PNG.barabaravom/GitProfile.png?type=w966"/><br>
+  <img src="https://postfiles.pstatic.net/MjAyMjA1MDFfMjcy/MDAxNjUxMzM3MTc1Njcy.n5MtflaAYZi6b4YJh0ejH7nL9q_3hAmNks5PoxGWbZ4g.Cx17c9wvrIFOvRNrJkSDBTyoflNmZX-cUkgj89AblMIg.PNG.barabaravom/SE-f8678922-bfcd-4700-b307-8febd6dc9ba8.png?type=w966"/><br>
 </div>
    
