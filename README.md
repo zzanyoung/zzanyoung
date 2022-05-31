@@ -3,7 +3,7 @@
  <h3> 글쓰고 게임 만듭니다 😎🔥<h3>
   
 <div>
-  <img align="right" src="https://postfiles.pstatic.net/MjAyMjA0MjZfMTQ3/MDAxNjUwOTA1NDA0OTU5.0c_XX2avVIA4HiZlHQtxxbC2H3DA8hpahKBaiWeUDg4g.kYabfUNmP9u7PKgkbwZ_xr9XQY9QUW4LuqFZbVwT934g.GIF.barabaravom/mario-pixel-art.gif?type=w966"/>
+<img src="https://postfiles.pstatic.net/MjAyMjA0MjZfMTQ3/MDAxNjUwOTA1NDA0OTU5.0c_XX2avVIA4HiZlHQtxxbC2H3DA8hpahKBaiWeUDg4g.kYabfUNmP9u7PKgkbwZ_xr9XQY9QUW4LuqFZbVwT934g.GIF.barabaravom/mario-pixel-art.gif?type=w966"/>
 </div>
 
 <div><br>
