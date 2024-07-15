@@ -10,5 +10,6 @@
 </a>
 
 <!--
-pet-id check : https://render.gitanimals.org/users/zzanyoung
+pet-id : https://render.gitanimals.org/users/zzanyoung
+trading : https://gitanimals.org/
 -->
