@@ -1,6 +1,6 @@
 ## CUTE ZOO
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{zzanyoung}?pet-id=591073029037674165" width="1000" height="220"/>
+  <img src="https://render.gitanimals.org/lines/{zzanyoung}?pet-id=600501294079627966" width="1000" height="220"/>
 </a>
 
 ---
