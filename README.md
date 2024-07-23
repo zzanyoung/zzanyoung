@@ -1,4 +1,4 @@
-## CUTE ZOO
+## Sunglass Cheep Cheep
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{zzanyoung}?pet-id=573535569038493680" width="1000" height="220"/>
 </a>
