@@ -1,9 +1,10 @@
-## Sunglass Cheep Cheep
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{zzanyoung}?pet-id=573535569038493680" width="1000" height="220"/>
-</a>
+### Coder by day, storyteller by night
+I love getting lost in fantasy worlds, whether they're in books or games.
 
----
+![Coder by day, storyteller by night](https://github.com/zzanyoung/zzanyoung/blob/main/key.gif)
+<br><br>
+
+and my CUTE animals 😎
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{zzanyoung}" width="400"/>
