@@ -1,6 +1,5 @@
-### Coder by day, storyteller by night
+## Coder by Day, Fiction Writer by Night
 
-![Coder by day, storyteller by night](https://github.com/zzanyoung/zzanyoung/blob/main/key.gif)
 <br><br>
 
 and my CUTE animals 😎
