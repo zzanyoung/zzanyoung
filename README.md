@@ -3,6 +3,8 @@
 #### Here's how I work
 ![Coder by day, storyteller by night](https://github.com/zzanyoung/zzanyoung/blob/main/key.gif)
 <br>
+Click-clack DING-
+Click-clack DING-
 <br><br>
 
 
