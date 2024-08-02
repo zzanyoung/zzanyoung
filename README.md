@@ -1,6 +1,6 @@
 ## Coder by Day, Fiction Writer by Night
 
-#### How do I work?
+#### Here's how I work
 ![Coder by day, storyteller by night](https://github.com/zzanyoung/zzanyoung/blob/main/key.gif)
 <br>
 <br><br>
